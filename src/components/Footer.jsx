@@ -45,6 +45,9 @@ const Footer = () => {
           ))}
         </div>
       </div>
+      <div className="text-center mt-8">
+        <a href="/contact" className="text-sm hover:underline">Contáctanos</a>
+      </div>
     </div>
   );
 };
